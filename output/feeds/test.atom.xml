@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Austin Nichols - Test</title><link href="/" rel="alternate"/><link href="/feeds/test.atom.xml" rel="self"/><id>/</id><updated>2026-03-05T23:00:00-06:00</updated><entry><title>My First Post</title><link href="/test-post.html" rel="alternate"/><published>2026-03-05T23:00:00-06:00</published><updated>2026-03-05T23:00:00-06:00</updated><author><name>Austin</name></author><id>tag:None,2026-03-05:/test-post.html</id><summary type="html">&lt;p&gt;Testing out the capabilities of Pelican.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post is my first, and it really is just a test. I'm checking what the capabilities are, and where I might need to understand markdown better.&lt;/p&gt;
+&lt;p&gt;When I start a new paragraph that should &lt;em&gt;obviously&lt;/em&gt; start a new paragraph in the generated html file. &lt;em&gt;But&lt;/em&gt; what if I want to do other things? Like write a code block?&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;indent&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;true&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="n"&gt;codeblock&lt;/span&gt;
+    &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="err"&gt;!&lt;/span&gt;&lt;span class="n"&gt;codeblock&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Did that work the way I thought it would? I don't know lets &lt;code&gt;find out&lt;/code&gt;.&lt;/p&gt;</content><category term="Test"/><category term="pelican"/><category term="tutorial"/><category term="static site"/></entry></feed>
